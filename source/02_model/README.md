@@ -1,0 +1,1 @@
+Use d_trainSchedulingSwitcher.py to train and save the trained .h5/.tflite model, graph and training result.

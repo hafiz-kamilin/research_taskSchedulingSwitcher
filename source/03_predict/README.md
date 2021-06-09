@@ -1,0 +1,1 @@
+Use e_aiModelEvaluationTest.py to evaluate and store the prediction result in this folder.
